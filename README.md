@@ -25,3 +25,7 @@ This tool is developed in Computational Sustainability (CoS) Division, Institute
 The copyright holder for this project is Computational Sustainability (CoS) Division, Institute of High Performance Computing (IHPC), A*STAR.
 
 All rights reserved.
+
+# Citation
+
+Pao-Hsiung Chiu, Jian Cheng Wong, Chin Chun Ooi, Chang Wei, Yuchen Fan, Yew-Soon Ong, _"Scale-PINN: Learning Efficient Physics-Informed Neural Networks Through Sequential Correction"_. https://arxiv.org/abs/2602.19475
